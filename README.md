@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api&username=Iven-Wang)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Iven-Wang&theme=dark&show_icons=true)
 
 
 <!--
